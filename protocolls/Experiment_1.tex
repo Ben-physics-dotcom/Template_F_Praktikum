@@ -1,0 +1,31 @@
+\documentclass[bibliography=totocnumbered,twocolumn]{scrarticle}
+\input{settings/packages}
+\input{settings/commands}
+\input{settings/settings}
+\title{Title}
+\begin{document}
+    \twocolumn[
+        \begin{@twocolumnfalse}
+            \maketitle
+            \begin{abstract}
+                
+            \end{abstract}
+        \end{@twocolumnfalse}
+    ]
+    \section{Introduction}
+        The introduction can be kept very short. In the case of a publication, it serves to classify the work carried out within the research landscape and to prepare the reader who is not a specialist in the subject for the subject matter. It can be assumed that your supervisor does not need this.
+        
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=\linewidth]{figures/Exp1/example.jpeg}
+            \caption{Example}
+            \label{fig: exp}
+        \end{figure}
+    \section{Materials and Methods}
+        In Materials and Methods, the experimental setups are described, the devices or experimental systems used with type designation and also special procedures for data evaluation/software, if necessary. Again: as short as possible, but the qualified reader should be able to understand your description. Sketches are often useful.
+    \newpage
+    \section{Analysis and Discussion}
+        In evaluation and discussion (often separately in more complex publications), the results are presented and analyzed, discussed in comparison with those in other works and of course the accuracy of the results is assessed. A result without an error statement is not a result and the accuracy of the results should always be visible in a graphic (if necessary error crosses etc.). This section includes the knowledge gained and the consequences thereof.
+    \section{Conclusion}
+        The conclusions are summarized at the end...again brief, but the well-trained reader should get a rough picture of your work and its results with the abstract and conclusions.
+\end{document}
