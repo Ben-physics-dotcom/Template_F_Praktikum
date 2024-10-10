@@ -46,7 +46,7 @@ This folder contains the configuration files for customizing the protocols.
 
 ## How to Use
 
-1. Clone this repository to your local machine or downlaod the zip file. If you want to use Overleaf the zip file is the prefert version, because you can upload the zip file.
+1. Clone this repository to your local machine or download the zip file. If you want to use Overleaf, the zip file is the preferred version because you can upload the zip file.
 2. Update the `settings.tex`, `acronyms_de.tex`, and `acronyms_eng.tex` files as needed for your specific experiment and protocol.
 3. Add figures to the appropriate subfolders within `figures/`.
 4. Write your protocols in the `protocolls/` folder, following the LaTeX template structure.
@@ -105,7 +105,8 @@ Dieser Ordner enthält die Konfigurationsdateien zur Anpassung der Protokolle.
 
 ## Nutzung
 
-1. Klonen Sie dieses Repository auf Ihren lokalen Rechner.
-2. Passen Sie die Dateien `settings.tex`, `acronyms_de.tex` und `acronyms_eng.tex` nach Bedarf für Ihr spezifisches Experiment und Protokoll an.
-3. Fügen Sie Bilder in die entsprechenden Unterordner im Verzeichnis `figures/` ein.
-4. Schreiben Sie Ihre Protok
+1. Klonen Sie dieses Repository auf Ihren lokalen Rechner oder laden Sie die Zip-Datei herunter. Wenn Sie Overleaf verwenden möchten, ist die Zip-Datei die bevorzugte Version, da Sie die Zip-Datei hochladen können.
+2. Aktualisieren Sie die Dateien `settings.tex`, `acronyms_de.tex` und `acronyms_eng.tex` entsprechend den Anforderungen für Ihr spezifisches Experiment und Protokoll.
+3. Fügen Sie die Abbildungen in die entsprechenden Unterordner im Verzeichnis `figures/` ein.
+4. Schreiben Sie Ihre Protokolle im Ordner `protocolls/` unter Verwendung der LaTeX-Vorlagenstruktur.
+5. Stellen Sie sicher, dass Ihre Bibliografiedatei in `settings.tex` korrekt eingefügt und referenziert ist.
