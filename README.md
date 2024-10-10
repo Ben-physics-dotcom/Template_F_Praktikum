@@ -8,7 +8,8 @@ https://www.physik.hu-berlin.de/de/studium/bachelor/f-praktikum/reportguide
 The repository contains the following main directories:
 
 ### 1. `figures/`
-This folder contains subfolders for images and graphs used in the protocols. For each experiment, you can store your figures here, categorized as you see fit. You can modify the folder structure to your needs, creating subdirectories per experiment or report.
+This folder contains subfolders for images and graphs used in the protocols. The idea is that each subfolder contains the images and graphs for each protocol.
+
 
 ### 2. `protocolls/`
 This folder is where all your protocol documents will be stored. Each protocol should follow the provided LaTeX template structure:
@@ -67,7 +68,8 @@ https://www.physik.hu-berlin.de/de/studium/bachelor/f-praktikum/reportguide
 Das Repository enthält die folgenden Hauptverzeichnisse:
 
 ### 1. `figures/`
-In diesem Ordner befinden sich Unterordner für Bilder und Grafiken, die in den Protokollen verwendet werden. Für jedes Experiment können Sie Ihre Bilder hier speichern, kategorisiert nach Belieben. Sie können die Ordnerstruktur an Ihre Bedürfnisse anpassen, indem Sie z.B. Unterverzeichnisse pro Experiment oder Bericht erstellen.
+Dieser Ordner enthält Unterordner für Bilder und Grafiken, die in den Protokollen verwendet werden. Die Idee ist, dass jeder Unterordner die Bilder und Grafiken für jedes Protokoll enthält.
+
 
 ### 2. `protocolls/`
 In diesem Ordner werden alle Ihre Protokolldokumente gespeichert. Jedes Protokoll sollte der vorgegebenen LaTeX-Vorlagenstruktur folgen:
