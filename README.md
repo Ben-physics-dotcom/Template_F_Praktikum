@@ -34,7 +34,7 @@ This folder contains the configuration files for customizing the protocols.
 
 - **`commands.tex`**: This file contains custom commands for your LaTeX document.
 
-- **`index.ist`**: If you want to include an index in your protocol, you can configure the settings here.
+- **`index.ist`**: If you want to include an index in your protocol, here are the settings for the index.
 
 - **`packages.tex`**: All necessary LaTeX packages are loaded in this file. If you are using Overleaf, packages will load automatically. However, if you're working with MiKTeX or other local environments, you may need to install missing packages manually.
 
@@ -42,11 +42,11 @@ This folder contains the configuration files for customizing the protocols.
 
   - Line 9: `\addbibresource{}` – Add the path to your personal bibliography file here. Ensure that you include a `.bib` file for proper referencing.
 
-  - Table Folder: If needed, you can create a separate folder for tables and reference them in your protocol.
+- Table Folder: If needed, you can create a separate folder for tables and reference them in your protocol.
 
 ## How to Use
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine or downlaod the zip file. If you want to use Overleaf the zip file is the prefert version, because you can upload the zip file.
 2. Update the `settings.tex`, `acronyms_de.tex`, and `acronyms_eng.tex` files as needed for your specific experiment and protocol.
 3. Add figures to the appropriate subfolders within `figures/`.
 4. Write your protocols in the `protocolls/` folder, following the LaTeX template structure.
