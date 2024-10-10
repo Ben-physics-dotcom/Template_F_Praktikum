@@ -101,7 +101,7 @@ Dieser Ordner enthält die Konfigurationsdateien zur Anpassung der Protokolle.
 
   - Zeile 9: `\addbibresource{}` – Fügen Sie hier den Pfad zu Ihrer persönlichen Bibliografie-Datei hinzu. Stellen Sie sicher, dass Sie eine `.bib`-Datei für korrektes Zitieren einbinden.
 
-  - Tabellen-Ordner: Wenn nötig, können Sie einen separaten Ordner für Tabellen erstellen und diese in Ihrem Protokoll referenzieren.
+- Tabellen-Ordner: Wenn nötig, können Sie einen separaten Ordner für Tabellen erstellen und diese in Ihrem Protokoll referenzieren.
 
 ## Nutzung
 
