@@ -1,0 +1,19 @@
+# the .gitignore file is for that reason that no personal information comes from the project to GitHub
+
+# filetypes
+*.log
+*.aux
+*.bcf
+*.idx
+*.toc
+*.txt
+*.csv
+*.jpeg
+*.png
+*.jpg
+*.svg
+*.bbl
+*.gz
+
+# specific files
+Authors.tex
