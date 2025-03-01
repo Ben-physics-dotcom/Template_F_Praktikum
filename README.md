@@ -1,3 +1,7 @@
+# Security Notice
+
+If you have your mail address and your student number (Matrikelnr) in the Authors.tex file, please make sure that your repository is private. So that nobody gets your mail address or your student number, if you use GitHub to save your protocolls.
+
 # F-Praktikum Template Repository
 
 This repository contains the LaTeX template for documenting the six experiments of the Fortgeschrittenen Praktikum (F-Praktikum, FPR). Each experiment requires both an analysis and a protocol in the form of a scientific paper. The template is structured to help you easily format your reports, following the guidelines provided here:  
